@@ -3,7 +3,7 @@
 [![SciProfiles](https://img.shields.io/badge/SciProfiles-black)](https://sciprofiles.com/profile/lffreitas-gutierres)
 [![Scopus](https://img.shields.io/badge/Scopus-white)](https://www.scopus.com/authid/detail.uri?authorId=57195542368)
 [![Web of Science](https://img.shields.io/badge/ResearcherID-grey)](https://www.webofscience.com/wos/author/record/Q-8444-2016)
-[![substationworm](https://img.shields.io/badge/LFFreitas-Gutierres-black)](https://github.com/LFFreitas-Gutierres)
+[![substationworm](https://img.shields.io/badge/LFFreitasGutierres-black)](https://github.com/LFFreitas-Gutierres)
 
 ## 👋 Introduction
 
